@@ -1,0 +1,33 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sidebar{
+    background-color: #000435;
+}
+
+.sidebar-item:hover{
+    background-color: #2196f3;
+    cursor: pointer;
+}
+
+.sidebar-item span{
+    font-size: 20px;
+    margin: 20px;
+}
+
+#dash-row11{
+    background-color: #8862e0; 
+}
+#dash-row12{
+    background-color: #19d895; 
+}
+#dash-row13{
+    background-color: #2196f3; 
+}
+#dash-row14{
+    background-color: #ffaf00; 
+}
